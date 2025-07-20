@@ -26,7 +26,6 @@ h1 {
   position: absolute;
   top: 0;
   right: 0;
-  background-color: #ffcc00; /* لون مختلف لكل عنوان */
   border: 1px solid black;
   padding: 5px 10px;
   font-size: 1.25em; /* 25% أكبر */
@@ -45,7 +44,7 @@ h1 {
 
 #section3 .section-title {
   background-color: yallow; /* أخضر */
-  color: white;
+  color: black;
 }
 
 
