@@ -3,7 +3,7 @@
 }
 
 body {
-  font-family: ADLaM Display, sans-serif;
+  font-family: 'Courier New', monospace;
   margin: 0;
   padding: 20px;
 }
@@ -21,7 +21,7 @@ h1 {
   margin: 10px;
   position: relative;
   float: left;
-  font-family: ADLaM Display, sans-serif;
+  font-family: 'Courier New', monospace;
 }
 
 .section-title {
