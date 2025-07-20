@@ -16,7 +16,7 @@ h1 {
 
 .section {
   border: 1px solid black;
-  backgroung-color: selver;
+  backgroung-color: gray;
   padding: 40px 15px 15px 15px; /* عشان ما يغطي النص العنوان */
   margin: 10px;
   position: relative;
@@ -44,7 +44,7 @@ h1 {
 }
 
 #section3 .section-title {
-  background-color: yallow; /* أخضر */
+  background-color: yellow; /* أخضر */
   color: black;
 }
 
