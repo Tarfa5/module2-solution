@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-  font-size: 2em; /* 75% أكبر */
+  font-size: 2em; 
   text-align: center;
   margin-bottom: 40px;
   font-family: 'ADLaM Display', sans-serif;
@@ -18,7 +18,7 @@ h1 {
 .section {
   border: 1px solid black;
   background-color: #808080	;
-  padding: 40px 15px 15px 15px; /* عشان ما يغطي النص العنوان */
+  padding: 40px 15px 15px 15px; 
   margin: 10px;
   position: relative;
   float: left;
@@ -32,34 +32,34 @@ h1 {
   right: 0;
   border: 1px solid black;
   padding: 5px 10px;
-  font-size: 1.25em; /* 25% أكبر */
+  font-size: 1.25em; 
 }
 
 
 #section1 .section-title {
-  background-color: #FFC0CB	; /* أصفر */
+  background-color: #FFC0CB	;
   color: black;
 }
 
 #section2 .section-title {
-  background-color: #B22222	; /* أحمر */
+  background-color: #B22222	; 
   color: white;
 }
 
 #section3 .section-title {
-  background-color: #F0E68C	; /* أخضر */
+  background-color: #F0E68C	; 
   color: black;
 }
 
 
-/* === Desktop view (992px and above) === */
+Desktop view (992px and above)
 @media (min-width: 992px) {
   .section {
     width: 33.33%;
   }
 }
 
-/* === Tablet view (768px to 991px) === */
+Tablet view (768px to 991px)
 @media (min-width: 768px) and (max-width: 991px) {
   #section1, #section2 {
     width: 50%;
@@ -69,7 +69,7 @@ h1 {
   }
 }
 
-/* === Mobile view (767px and below) === */
+Mobile view (767px and below)
 @media (max-width: 767px) {
   .section {
     width: 100%;
