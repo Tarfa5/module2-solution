@@ -16,6 +16,7 @@ h1 {
 
 .section {
   border: 1px solid black;
+  backgroung-color: selver;
   padding: 40px 15px 15px 15px; /* عشان ما يغطي النص العنوان */
   margin: 10px;
   position: relative;
